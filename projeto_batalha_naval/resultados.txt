@@ -1,0 +1,17 @@
+Data	Jogador1	Jogador2	Jogadas	Vencedor	Status19-05-2025 12:45:47	tomas	miguel	4	N/A	Abandonada	20-05-2025 00:46:40	tomas	gon	2	N/A	Abandonada	20-05-2025 01:23:43	tom	gon	3	tom	Abandonada	Jogo_tom_vs_gon_200525_012343.mat20-05-2025 01:23:43	tom	gon	5	tom	Abandonada	Jogo_tom_vs_gon_200525_012343.mat20-05-2025 01:48:35	tom	gon	3	tom	Concluída	Jogo_tom_vs_gon_200525_014835.mat20-05-2025 01:49:25	tom	gon	10	tom	Abandonada	Jogo_tom_vs_gon_200525_014925.mat20-05-2025 01:54:37	tom	gon	10	tom	Abandonada	Jogo_tom_vs_gon_200525_015437.mat20-05-2025 01:55:10	tom	gon	2	gon	Concluída	Jogo_tom_vs_gon_200525_015510.mat20-05-2025 01:55:34	tom	gon	10	tom	Abandonada	Jogo_tom_vs_gon_200525_015534.mat20-05-2025 01:56:54	tom	gon	10	tom	Abandonada	Jogo_tom_vs_gon_200525_015654.mat23-05-2025 15:58:51	tom	gon	10	tom	Abandonada	Jogo_tom_vs_gon_230525_155851.mat23-05-2025 16:01:26	tom	gon	10	tom	Abandonada	Jogo_tom_vs_gon_230525_160126.mat23-05-2025 16:02:47	tomas	Computador	3	tomas	Concluída	Jogo_tomas_vs_Computador_230525_160247.mat
+20-05-2025 01:44:32	tom	gon	9	gon	Abandonada	Jogo_tom_vs_gon_200525_014432.mat
+20-05-2025 01:43:30	tom	gon	9	gon	Abandonada	Jogo_tom_vs_gon_200525_014330.mat
+20-05-2025 01:43:18	tom	gon	8	tom	Abandonada	Jogo_tom_vs_gon_200525_014318.mat
+20-05-2025 01:42:29	tom	gon	7	gon	Concluída	Jogo_tom_vs_gon_200525_014229.mat
+20-05-2025 01:36:49	tom	gon	4	tom	Abandonada	Jogo_tom_vs_gon_200525_013649.mat
+20-05-2025 01:36:43	tom	gon	4	tom	Abandonada	Jogo_tom_vs_gon_200525_013643.mat
+20-05-2025 01:36:32	tom	gon	3	gon	Abandonada	Jogo_tom_vs_gon_200525_013632.mat
+20-05-2025 01:35:46	tom	gon	2	tom	Concluída	Jogo_tom_vs_gon_200525_013546.mat
+20-05-2025 01:28:31	tom	gon	2	tom	Concluída	Jogo_tom_vs_gon_200525_012831.mat
+23-05-2025 16:12:30	tomas	Computador	1	N/A	Abandonada
+24-05-2025 15:19:31	tom	Computador	1	N/A	Abandonada
+24-05-2025 15:22:18	tomas	Computador	8	N/A	Abandonada
+24-05-2025 15:23:22	tomas	toma	2	N/A	Abandonada
+24-05-2025 15:27:08	4	Computador	2	N/A	Abandonada
+24-05-2025 15:27:26	tomas	Computador	2	N/A	Abandonada
+24-05-2025 17:13:36	tom	Computador	2	N/A	Abandonada
